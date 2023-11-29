@@ -1,1 +1,1 @@
-My first commit yaaaay
+Welcome to my GitHub profile!
